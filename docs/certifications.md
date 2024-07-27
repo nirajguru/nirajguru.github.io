@@ -1,4 +1,4 @@
-# Certifications
+# [Certifications] ((https://www.credly.com/users/niraj-kumar-gurupanchayan)
 - [**AWS Certified Solutions Architect - Professional**](https://www.credly.com/badges/c480bad6-429d-4e82-8734-8c108153ee1f)
 - [**AWS Certified DevOps Engineer – Professional**](https://www.credly.com/badges/b24d136d-a334-4e2d-918a-270c576c5bc8)
 - [**AWS Certified Security - Specialty**](https://www.credly.com/badges/a853cb18-81ed-41a4-b11b-fdeb2f209ccd)
