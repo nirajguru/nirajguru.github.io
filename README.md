@@ -2,9 +2,9 @@ Hi, I am Niraj. I build and optimize solutions in the Cloud.
 
 Currently, I am a Principal Site Reliability Engineer at OpenText, where I combine skills in DevOps, Cloud Engineering, SRE, and Cloud Architecture. My work includes AWS migrations, automating cloud infrastructure, and optimizing operations for cost savings. I focus on designing scalable solutions, improving cloud security, and mentoring a high-performing team.
 
-Previously, a as a Public Cloud Engineer at JP Morgan Chase, I optimized AWS infrastructure with automation and Terraform.
+Previously, at JP Morgan Chase, I worked as Public Cloud SRE optimizing AWS infrastructure with automation and Terraform. In earlier roles at JP Morgan Chase, I worked on Middleware and Data transformation processes, implemented automation, and managed vendor relationships.
 
-I hold 7 active certifications in AWS (my favourite cloud service provider), with aim to be fully certified on all AWS certifications soon. Check out my full list of active certifications [here](docs/certifications.md)
+I hold 7 active certifications in AWS (my favourite cloud service provider), with aim to be fully certified on all AWS certifications soon. Check out my full list of active certifications including Kubernetes [here](docs/certifications.md)
 
 You can view my detailed technical skills [here](docs/skills.md).
 
