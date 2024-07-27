@@ -1,13 +1,12 @@
 # Certifications
-
-- AWS Certified Solutions Architect - Professional
-- AWS Certified DevOps Engineer – Professional
-- AWS Certified Security - Specialty
-- AWS Certified Solution Architect - Associate
-- AWS Certified Developer - Associate
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Cloud Practitioner
-- Certified Kubernetes Administrator (CKA)
-- Certified Kubernetes Application Developer (CKAD)
-- Team Kanban Practitioner
-- Google Cloud Associate Cloud Engineer
+- [**AWS Certified Solutions Architect - Professional**](https://www.credly.com/badges/c480bad6-429d-4e82-8734-8c108153ee1f)
+- [**AWS Certified DevOps Engineer – Professional**](https://www.credly.com/badges/b24d136d-a334-4e2d-918a-270c576c5bc8)
+- [**AWS Certified Security - Specialty**](https://www.credly.com/badges/a853cb18-81ed-41a4-b11b-fdeb2f209ccd)
+- [**AWS Certified Solutions Architect - Associate**](https://www.credly.com/badges/419e385c-8c14-4c40-925e-302c59de2f44)
+- [**AWS Certified Developer - Associate**](https://www.credly.com/badges/0bd490c4-71a3-460f-8a03-54aead92adea)
+- [**AWS Certified SysOps Administrator - Associate**](https://www.credly.com/badges/70524d6a-e076-4e06-83c4-8df83b80affb)
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/9eb8e4ac-472a-4bf8-8e1e-5379e7903d2c)
+- [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/badges/b026e4e1-a632-4a32-bee5-8e796cd37690)
+- [**Certified Kubernetes Application Developer (CKAD)**](https://www.credly.com/badges/f9248cc6-56f1-43d0-a353-013e48630579)
+- **Team Kanban Practitioner**
+- [**Google Cloud Associate Cloud Engineer**](https://www.credly.com/badges/f8a44807-3e6f-469f-a9be-5a481de20438/public_url)
