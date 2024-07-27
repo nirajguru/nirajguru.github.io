@@ -1,8 +1,6 @@
-# Niraj Gurupanchayan
+#
 
-Hello,
-
-I am Niraj. I build and optimize solutions in the Cloud.
+Hello, I am Niraj. I build and optimize solutions in the Cloud.
 
 I am currently a Principal Site Reliability Engineer @OpenText, where my role blends expertise from DevOps, Cloud Engineering, SRE, and Cloud Architecture. I've done AWS migrations, automated cloud infrastructure, and optimized operational efficiency, including cost savings through strategic migrations. My role involves architecting scalable solutions, enhancing cloud security, and mentoring a high-performing team.
 
@@ -16,4 +14,8 @@ In my spare time, I am an avid reader of fiction, technical, and non-fiction boo
 
 Outside of work, running is a key part of my routine, contributing to both my physical and mental well-being. I’ve completed seven full marathons and several half marathons, including two virtual London Marathons to raise funds for charity. I’ve done over 100 parkruns :) I log all my runs and you can track my running on [Strava](https://www.strava.com/athletes/21360851?hl=en-GB). 
 
-Though I'm NOT on Facebook and Instagram, and I rarely check X, feel free to connect with me through these interests and achievements!
+I'm NOT on Facebook and Instagram, and I rarely check X, feel free to connect with me through these interests or [LinkedIn](https://www.linkedin.com/in/niraj-gurupanchayan/)!
+
+#
+[Projects](docs/projects.md)
+#
