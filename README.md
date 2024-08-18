@@ -1,15 +1,13 @@
-Hi, I am Niraj. I build and optimize solutions in the Cloud.
+Hi, I'm Niraj. I build and optimize solutions in the Cloud.
 
-Currently, I am a Principal Site Reliability Engineer at OpenText, where I combine skills in DevOps, Cloud Engineering, SRE, and Cloud Architecture. My work includes AWS migrations, automating cloud infrastructure, and optimizing operations for cost savings. I focus on designing scalable solutions, improving cloud security, and mentoring a high-performing team.
+Currently, I'm a Principal Site Reliability Engineer at OpenText, where I combine skills in DevOps, Cloud Engineering, SRE, and Cloud Architecture. My work includes AWS migrations, automating cloud infrastructure, and optimizing operations for cost savings. I focus on designing scalable solutions, improving cloud security, and also mentoring a high-performing team.
 
-Previously, at JP Morgan Chase, I worked as Public Cloud SRE optimizing AWS infrastructure with automation and Terraform. In earlier roles at JP Morgan Chase, I worked on Middleware and Data transformation processes, implemented automation, and managed vendor relationships.
+Previously, at JP Morgan Chase, I worked as Public Cloud SRE optimizing AWS infrastructure with automation and Terraform. In earlier roles at JP Morgan Chase, I worked on Middleware and Data transformation processes, implemented automation, and also managed vendor relationships.
 
-I hold 7 active certifications in AWS (my favourite cloud service provider), with aim to be fully certified on all AWS certifications soon. Check out my full list of active certifications including Kubernetes [here](docs/certifications.md)
+I've got 7 active certifications in AWS (my favourite cloud service provider), with aim to be fully certified on all 12 AWS certifications soon. Check out my full list of active certifications including Kubernetes [here](docs/certifications.md)
 
 You can view my detailed technical skills [here](docs/skills.md).
 
-In my spare time, I am an avid reader, including technical books, and I’ve recently started logging my reading journey on [goodreads](https://www.goodreads.com/user/show/178846143-niraj-gurupanchayan).
+When I'm not working, you'll probably find me with my nose in a [book](https://www.goodreads.com/user/show/178846143-niraj-gurupanchayan) or out running. I've run seven full marathons, including two virtual London Marathons, and several half marathons. I've also done over 100 parkruns :) I log all my runs and you can keep up with my running adventures on [Strava](https://www.strava.com/athletes/21360851?hl=en-GB).
 
-Outside of work, RUNNING is a key part of my routine, contributing to both my physical and mental well-being. I’ve completed seven full marathons and several half marathons, including two virtual London Marathons to raise funds for charity. I’ve done over 100 parkruns :) I log all my runs and you can track my running on [Strava](https://www.strava.com/athletes/21360851?hl=en-GB). 
-
-You can connect with me through these interests or [LinkedIn](https://www.linkedin.com/in/niraj-gurupanchayan/) I'm NOT on Facebook and Instagram, and I rarely check X :)
+You can connect with me through these interests or [LinkedIn](https://www.linkedin.com/in/niraj-gurupanchayan/) I'm NOT on Facebook and Instagram :)
